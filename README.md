@@ -1,18 +1,34 @@
+# multi-project
+
+This repository contains multiple independent projects managed in a single monorepo. Below is a list of the active and in-progress projects:
+
+## Projects
+
+### 1. generate-password
+A tool for generating secure passwords based on customizable criteria.
+
+### 2. short-url
+A service for generating short, easily shareable URLs from long links.
+
+### 3. ai-api
+An API service providing access to artificial intelligence or machine learning functionalities.
+
+### 4. cryto-crawl
+A project for crawling and collecting data from cryptocurrency-related sources.
+
+### 5. generate-prcode (in progress)
+A project currently in development for generating PR codes. More details will be added soon.
+
+---
+
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Each project is maintained in its own directory. Please see the respective folders for setup instructions and documentation.
 
-## Folder Structure
+## Contributing
 
-The workspace contains two folders by default, where:
+Feel free to open issues or submit pull requests. Contributions are welcome!
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## License
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This repository is licensed under the terms of your chosen license.
